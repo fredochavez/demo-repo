@@ -1,0 +1,17 @@
+git git clone <github ssh or https link>
+git status
+git add <filename, the dot(.) includes all files in the folder>
+git commit -m "<message>" -m "<description box>"
+
+git push master
+
+ssh-keygen -t rsa -b 4096 -C "fredo.chavez@altumrf.com"
+
+github username: fredo.chavez@altumrf.com
+password: fredo.chavez@altumrf.com
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDGi9AUipgrgL4T7cAUCG6o4CxTedSaXcTU+Hfe1sdJJXNjO45BOETQD5oEgTbjgON/O7XBxHkRW24VdCgX99wfWAZmGKeps/E3BZw5uSP7/v57aw25L/Lum9NLz
+py1zYOMyUsCHOH+2M5p0uTBfvhuKZI+cHXCbwAq7AGhg4BSTZoGZFuxOjZPbEI4oh8/9surx42mCf0seDYAKStOwlTHRIuJY7UQhG/a0rE5qIxqGKApmKxNXjyeVf73gD2KCbJbadP2HPrzxswO53Vywyh9fUhcdg
+p2sHZQ8DX8o9WBFc00GuvqdFL8tqjMFACp6cHQ4gZfblfFEh4JjFzi+VN/lrvrWm92l0M9R0D+fWriI90D/SGJ+7zoYbiykYV1T27Qq9Eouutx6DMMceGmDra+Dcsh/ec26uvNIM+tXY49k63glMIAqQ5w0h7w4iU
+2npYVGvagobUWYw1OgE3naTMrA+nkG8MfKj1xBfZYKHdZNo2CCbkXWjvVHL2fpC5qjWFVRNTQRQWF9eMK5p1nLuwVUYvEj1Me/lUoqEzSCQ/5MWVa53yTaSBsxZ4Z5lyeCWiHPhr9sVjAOTqYBbVs8YUML/SUDEDI
+8IYf/foNpqZPk3u+mK/eyRgahIfQ5m2ciYjY1mKVCZhJU3VLYAkdG7KyPEjV+kyVA8W2anqj4cRoRw== fredo.chavez@altumrf.com
