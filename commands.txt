@@ -3,7 +3,7 @@ git status
 git add <filename, the dot(.) includes all files in the folder>
 git commit -m "<message>" -m "<description box>"
 
-git push master
+git push master origin
 
 ssh-keygen -t rsa -b 4096 -C "fredo.chavez@altumrf.com"
 
